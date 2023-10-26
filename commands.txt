@@ -15,3 +15,6 @@
 
 6)command for pushing files from local repository to remote repository
 >git push origin branch_name
+
+7)updates from repository
+>git pull origin master
